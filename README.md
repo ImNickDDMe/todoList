@@ -1,3 +1,7 @@
+# NOTICE
+
+For security reasons, Firebase configuration files are counted out from the repository. In addition to those changes, some file(s) are also altered.
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
